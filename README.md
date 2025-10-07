@@ -1,6 +1,6 @@
 # jpa01-Saqif-Ayaan
 
-Deployed at: http://jpa01-saqif-ayaan.dokku-16.cs.ucsb.edu
+Deployed at: https://jpa01-saqif-ayaan.dokku-16.cs.ucsb.edu
 
 
 # About this repo
